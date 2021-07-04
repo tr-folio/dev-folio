@@ -37,3 +37,9 @@ section {
     background: url("../img/top-banner.png");
     background-repeat: no-repeat;
 }
+
+.dream-big {
+    background: url("../img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
