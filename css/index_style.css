@@ -7,6 +7,11 @@ h1 {
     font-family: 'Poppins', sans-serif;
 }
 
+p {
+    color: rgb(80, 80, 80);
+    text-align: justify;
+}
+
 .orange-text {
     color: orange;
 }
@@ -57,11 +62,11 @@ h1 {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 35px;
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 30px;
 }
 
 h3 {
